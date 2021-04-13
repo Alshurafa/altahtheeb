@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/altahtheeb/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/altahtheeb/static/js/main.f8c8e02a.chunk.js",
-    "main.js.map": "/altahtheeb/static/js/main.f8c8e02a.chunk.js.map",
-    "runtime-main.js": "/altahtheeb/static/js/runtime-main.f73694c4.js",
-    "runtime-main.js.map": "/altahtheeb/static/js/runtime-main.f73694c4.js.map",
-    "static/js/2.ca7256c8.chunk.js": "/altahtheeb/static/js/2.ca7256c8.chunk.js",
-    "static/js/2.ca7256c8.chunk.js.map": "/altahtheeb/static/js/2.ca7256c8.chunk.js.map",
-    "static/js/3.ce743019.chunk.js": "/altahtheeb/static/js/3.ce743019.chunk.js",
-    "static/js/3.ce743019.chunk.js.map": "/altahtheeb/static/js/3.ce743019.chunk.js.map",
+    "main.css": "/altahtheeb/static/css/main.845fad81.chunk.css",
+    "main.js": "/altahtheeb/static/js/main.3a797340.chunk.js",
+    "main.js.map": "/altahtheeb/static/js/main.3a797340.chunk.js.map",
+    "runtime-main.js": "/altahtheeb/static/js/runtime-main.adac39c0.js",
+    "runtime-main.js.map": "/altahtheeb/static/js/runtime-main.adac39c0.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/altahtheeb/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0beb4198.chunk.js": "/altahtheeb/static/js/2.0beb4198.chunk.js",
+    "static/js/2.0beb4198.chunk.js.map": "/altahtheeb/static/js/2.0beb4198.chunk.js.map",
+    "static/js/3.c3ffb865.chunk.js": "/altahtheeb/static/js/3.c3ffb865.chunk.js",
+    "static/js/3.c3ffb865.chunk.js.map": "/altahtheeb/static/js/3.c3ffb865.chunk.js.map",
     "index.html": "/altahtheeb/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/altahtheeb/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.ca7256c8.chunk.js.LICENSE.txt": "/altahtheeb/static/js/2.ca7256c8.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/altahtheeb/static/media/logo.6ce24c58.svg"
+    "static/css/2.4c97ca4f.chunk.css.map": "/altahtheeb/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.845fad81.chunk.css.map": "/altahtheeb/static/css/main.845fad81.chunk.css.map",
+    "static/js/2.0beb4198.chunk.js.LICENSE.txt": "/altahtheeb/static/js/2.0beb4198.chunk.js.LICENSE.txt",
+    "static/media/home_bg.d35d6806.jpg": "/altahtheeb/static/media/home_bg.d35d6806.jpg",
+    "static/media/logo.ba7d3d4f.png": "/altahtheeb/static/media/logo.ba7d3d4f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f73694c4.js",
-    "static/js/2.ca7256c8.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.f8c8e02a.chunk.js"
+    "static/js/runtime-main.adac39c0.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0beb4198.chunk.js",
+    "static/css/main.845fad81.chunk.css",
+    "static/js/main.3a797340.chunk.js"
   ]
 }
